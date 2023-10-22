@@ -54,7 +54,7 @@ export const lessons = [
         <li> periodo (<b> PK fechaInicio: DATE </b>, fechaFin: DATE) </li>
         <li> turno (<b> PK codTurno </b>: INT, descripción: VARCHAR) </li>
         <li> bomberoTrabajaEn (<b> PK codBom: INT [REF_bombero codBom], codTurno: INT [REF_turno codTurno], periodoInicio: DATE [REF_Periodo fechaInicio], periodoFin: DATE [REF_Periodo fechaFin]) </b> </li>
-
+        </small>
         `,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-1110-ta10/tree/main/src/com/tmbs/ta10_03',
         urlPG: ''
