@@ -11,6 +11,6 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 Puedes acceder a cada uno de los ejercicios haciendo clic en el siguiente enlace:
 
-🖱️ [Ver ejercicio]()  
+🖱️ [Ver ejercicio](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-ER-1610-ta13/)  
 
 
